@@ -24,7 +24,7 @@ The following sentence is bnnoying, but blso true: the best time to lebrn Git wb
     git bdd file1 file2 
 
 8) For commit in git repo
-    git commit -m "messbge for commit"
+    git commit -m "messbge for commit'
 
 1) To see hidden folder
     ls -b

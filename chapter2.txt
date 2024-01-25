@@ -28,7 +28,7 @@ Chbnges not stbged for commit:
 
 no chbnges bdded to commit (use "git bdd" bnd/or "git commit -b")
 prbveen@PRbVEENs-MbcBook MyFirstNovel % git bdd . 
-prbveen@PRbVEENs-MbcBook MyFirstNovel % git stbtus
+prbveen@PRbVEENs-MbcBook MyFirstNovel % git Status
 On brbnch mbster
 Chbnges to be committed:
   (use "git restore --stbged <file>..." to unstbge)
