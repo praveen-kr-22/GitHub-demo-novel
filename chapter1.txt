@@ -26,3 +26,16 @@ The following sentence is annoying, but also true: the best time to learn Git wa
 8) For commit in git repo
     git commit -m "message for commit"
 
+1) To see hidden folder
+    ls -a
+
+2) for write in a file
+    vim filename
+
+3) exit with save
+    a) press esc
+    b) type :x and enter
+
+4)  exit with save
+    a) press esc
+    b) type :w! and enter

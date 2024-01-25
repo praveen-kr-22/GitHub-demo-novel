@@ -1,0 +1,66 @@
+    begin work on chapter1
+
+commit afcbf1bfc5ac637b54aff3dd02a7e97e4330fdbe
+Author: praveen <kumarp222909@gmail.com>
+Date:   Thu Jan 25 11:52:09 2024 +0530
+
+    My first git commit
+praveen@PRAVEENs-MacBook MyFirstNovel % git status
+On branch master
+nothing to commit, working tree clean
+praveen@PRAVEENs-MacBook MyFirstNovel % vim outline.txt 
+praveen@PRAVEENs-MacBook MyFirstNovel % git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   outline.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+praveen@PRAVEENs-MacBook MyFirstNovel % vim chapter1.txt 
+praveen@PRAVEENs-MacBook MyFirstNovel % git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   chapter1.txt
+	modified:   outline.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+praveen@PRAVEENs-MacBook MyFirstNovel % git add . 
+praveen@PRAVEENs-MacBook MyFirstNovel % git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   chapter1.txt
+	modified:   outline.txt
+
+praveen@PRAVEENs-MacBook MyFirstNovel % git commit -m "complete chapter 1"
+[master da873c7] complete chapter 1
+ 2 files changed, 25 insertions(+), 1 deletion(-)
+praveen@PRAVEENs-MacBook MyFirstNovel % git log
+commit da873c748bdb3c9324287f46d59ce612e04e5b1c (HEAD -> master)
+Author: praveen <kumarp222909@gmail.com>
+Date:   Thu Jan 25 12:08:44 2024 +0530
+
+    complete chapter 1
+
+commit abffafb52fb101b5f5f8a37b2961ff3594df8093
+Author: praveen <kumarp222909@gmail.com>
+Date:   Thu Jan 25 12:01:45 2024 +0530
+
+    begin work on chapter1
+
+commit afcbf1bfc5ac637b54aff3dd02a7e97e4330fdbe
+Author: praveen <kumarp222909@gmail.com>
+Date:   Thu Jan 25 11:52:09 2024 +0530
+
+    My first git commit
+praveen@PRAVEENs-MacBook MyFirstNovel % git status                        
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   outline.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
