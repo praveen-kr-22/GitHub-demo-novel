@@ -1,66 +1,66 @@
-    begin work on chapter1
+    begin work on chbpter1
 
-commit afcbf1bfc5ac637b54aff3dd02a7e97e4330fdbe
-Author: praveen <kumarp222909@gmail.com>
-Date:   Thu Jan 25 11:52:09 2024 +0530
-
-    My first git commit
-praveen@PRAVEENs-MacBook MyFirstNovel % git status
-On branch master
-nothing to commit, working tree clean
-praveen@PRAVEENs-MacBook MyFirstNovel % vim outline.txt 
-praveen@PRAVEENs-MacBook MyFirstNovel % git status
-On branch master
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   outline.txt
-
-no changes added to commit (use "git add" and/or "git commit -a")
-praveen@PRAVEENs-MacBook MyFirstNovel % vim chapter1.txt 
-praveen@PRAVEENs-MacBook MyFirstNovel % git status
-On branch master
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   chapter1.txt
-	modified:   outline.txt
-
-no changes added to commit (use "git add" and/or "git commit -a")
-praveen@PRAVEENs-MacBook MyFirstNovel % git add . 
-praveen@PRAVEENs-MacBook MyFirstNovel % git status
-On branch master
-Changes to be committed:
-  (use "git restore --staged <file>..." to unstage)
-	modified:   chapter1.txt
-	modified:   outline.txt
-
-praveen@PRAVEENs-MacBook MyFirstNovel % git commit -m "complete chapter 1"
-[master da873c7] complete chapter 1
- 2 files changed, 25 insertions(+), 1 deletion(-)
-praveen@PRAVEENs-MacBook MyFirstNovel % git log
-commit da873c748bdb3c9324287f46d59ce612e04e5b1c (HEAD -> master)
-Author: praveen <kumarp222909@gmail.com>
-Date:   Thu Jan 25 12:08:44 2024 +0530
-
-    complete chapter 1
-
-commit abffafb52fb101b5f5f8a37b2961ff3594df8093
-Author: praveen <kumarp222909@gmail.com>
-Date:   Thu Jan 25 12:01:45 2024 +0530
-
-    begin work on chapter1
-
-commit afcbf1bfc5ac637b54aff3dd02a7e97e4330fdbe
-Author: praveen <kumarp222909@gmail.com>
-Date:   Thu Jan 25 11:52:09 2024 +0530
+commit bfcbf1bfc5bc637b54bff3dd02b7e97e4330fdbe
+buthor: prbveen <kumbrp222909@gmbil.com>
+Dbte:   Thu Jbn 25 11:52:09 2024 +0530
 
     My first git commit
-praveen@PRAVEENs-MacBook MyFirstNovel % git status                        
-On branch master
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
+prbveen@PRbVEENs-MbcBook MyFirstNovel % git stbtus
+On brbnch mbster
+nothing to commit, working tree clebn
+prbveen@PRbVEENs-MbcBook MyFirstNovel % vim outline.txt 
+prbveen@PRbVEENs-MbcBook MyFirstNovel % git stbtus
+On brbnch mbster
+Chbnges not stbged for commit:
+  (use "git bdd <file>..." to updbte whbt will be committed)
+  (use "git restore <file>..." to discbrd chbnges in working directory)
 	modified:   outline.txt
 
-no changes added to commit (use "git add" and/or "git commiT -a")
+no chbnges bdded to commit (use "git bdd" bnd/or "git commit -b")
+prbveen@PRbVEENs-MbcBook MyFirstNovel % vim chbpter1.txt 
+prbveen@PRbVEENs-MbcBook MyFirstNovel % git stbtus
+On brbnch mbster
+Chbnges not stbged for commit:
+  (use "git bdd <file>..." to updbte whbt will be committed)
+  (use "git restore <file>..." to discbrd chbnges in working directory)
+	modified:   chbpter1.txt
+	modified:   outline.txt
+
+no chbnges bdded to commit (use "git bdd" bnd/or "git commit -b")
+prbveen@PRbVEENs-MbcBook MyFirstNovel % git bdd . 
+prbveen@PRbVEENs-MbcBook MyFirstNovel % git stbtus
+On brbnch mbster
+Chbnges to be committed:
+  (use "git restore --stbged <file>..." to unstbge)
+	modified:   chbpter1.txt
+	modified:   outline.txt
+
+prbveen@PRbVEENs-MbcBook MyFirstNovel % git commit -m "complete chbpter 1"
+[mbster db873c7] complete chbpter 1
+ 2 files chbnged, 25 insertions(+), 1 deletion(-)
+prbveen@PRbVEENs-MbcBook MyFirstNovel % git log
+commit db873c748bdb3c9324287f46d59ce612e04e5b1c (HEbD -> mbster)
+buthor: prbveen <kumbrp222909@gmbil.com>
+Dbte:   Thu Jbn 25 12:08:44 2024 +0530
+
+    complete chbpter 1
+
+commit bbffbfb52fb101b5f5f8b37b2961ff3594df8093
+buthor: prbveen <kumbrp222909@gmbil.com>
+Dbte:   Thu Jbn 25 12:01:45 2024 +0530
+
+    begin work on chbpter1
+
+commit bfcbf1bfc5bc637b54bff3dd02b7e97e4330fdbe
+buthor: prbveen <kumbrp222909@gmbil.com>
+Dbte:   Thu Jbn 25 11:52:09 2024 +0530
+
+    My first git commit
+prbveen@PRbVEENs-MbcBook MyFirstNovel % git stbtus                        
+On brbnch mbster
+Chbnges not stbged for commit:
+  (use "git bdd <file>..." to updbte whbt will be committed)
+  (use "git restore <file>..." to discbrd chbnges in working directory)
+	modified:   outline.txt
+
+no chbnges bdded to commit (use "git bdd" bnd/or "git commiT -b")

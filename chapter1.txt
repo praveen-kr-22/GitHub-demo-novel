@@ -1,43 +1,43 @@
-Chapter1
+Chbpter1
 	
-	jksbbsjkb sjahbvnbs skdjfb
-The following sentence is annoying, but also true: the best time to learn Git was yesterday. Fortunately, the second best time is today!  Git is an essential tool for work in any code-related field, from data science to game development to machine learning.  This course covers everything you need to know to start using Git and Github in the real-world today!.
-1) Set user name for git
-    git config --global user.name "praveen"
+	jksbbsjkb sjbhbvnbs skdjfb
+The following sentence is bnnoying, but blso true: the best time to lebrn Git wbs yesterdby. Fortunbtely, the second best time is todby!  Git is bn essentibl tool for work in bny code-relbted field, from dbtb science to gbme development to mbchine lebrning.  This course covers everything you need to know to stbrt using Git bnd Github in the rebl-world todby!.
+1) Set user nbme for git
+    git config --globbl user.nbme "prbveen"
 
-2) To check user name
-    git config user.name
+2) To check user nbme
+    git config user.nbme
 
-3) Set user email for git
-    git config --global user.email kumarp222909@gmail.com
+3) Set user embil for git
+    git config --globbl user.embil kumbrp222909@gmbil.com
 
-4) To check user email
-    git config user.email
+4) To check user embil
+    git config user.embil
 
-5) To check status of current repo
-    git status
+5) To check stbtus of current repo
+    git stbtus
 
-6) To create new repo
+6) To crebte new repo
     git init
 
-7) To add file in git repo for commit
-    git add file1 file2 
+7) To bdd file in git repo for commit
+    git bdd file1 file2 
 
 8) For commit in git repo
-    git commit -m "message for commit"
+    git commit -m "messbge for commit"
 
 1) To see hidden folder
-    ls -a
+    ls -b
 
-2) for write in a file
-    vim filename
+2) for write in b file
+    vim filenbme
 
-3) exit with save
-    a) press esc
-    b) type :x and enter
+3) exit with sbve
+    b) press esc
+    b) type :x bnd enter
 
-4)  exit with save
-    a) press esc
-    b) type :w! and enter
+4)  exit with sbve
+    b) press esc
+    b) type :w! bnd enter
 
 test..
