@@ -2,3 +2,27 @@ Chapter1
 	
 	jksbbsjkb sjahbvnbs skdjfb
 The following sentence is annoying, but also true: the best time to learn Git was yesterday. Fortunately, the second best time is today!  Git is an essential tool for work in any code-related field, from data science to game development to machine learning.  This course covers everything you need to know to start using Git and Github in the real-world today!.
+1) Set user name for git
+    git config --global user.name "praveen"
+
+2) To check user name
+    git config user.name
+
+3) Set user email for git
+    git config --global user.email kumarp222909@gmail.com
+
+4) To check user email
+    git config user.email
+
+5) To check status of current repo
+    git status
+
+6) To create new repo
+    git init
+
+7) To add file in git repo for commit
+    git add file1 file2 
+
+8) For commit in git repo
+    git commit -m "message for commit"
+
